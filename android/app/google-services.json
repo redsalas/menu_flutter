@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "107681329045",
+    "firebase_url": "https://minerva-17aa4.firebaseio.com",
+    "project_id": "minerva-17aa4",
+    "storage_bucket": "minerva-17aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107681329045:android:8e43c20fbb229aac06109c",
+        "android_client_info": {
+          "package_name": "com.ngssol.minerva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107681329045-c9u8norrk6aqksmje4j6902o5scq4l0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngssol.minerva",
+            "certificate_hash": "5b4d508dbdd6252dc769d2991ad80cce8332efb4"
+          }
+        },
+        {
+          "client_id": "107681329045-rsh4iubgfn5hjj3ffk8gffrrhah36b89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmABd-1xUPVmDON__S13p5sn-jexdaY_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107681329045-rsh4iubgfn5hjj3ffk8gffrrhah36b89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
